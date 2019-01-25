@@ -7,8 +7,8 @@ type article struct {
 }
 
 var articleList = []article{
-	article{ID: 0, Title: "Artice 1", Content: "Artice 1 Body"},
-	article{ID: 1, Title: "Artice 2", Content: "Artice 2 Body"},
+	article{ID: 0, Title: "ZZH", Content: "zhangzhihao"},
+	article{ID: 1, Title: "Rita", Content: "肥肥肥肥肥肥"},
 }
 
 func getAllArticles() []article {
